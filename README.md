@@ -43,4 +43,4 @@ Logistic Regression
 
 -Clone the repository.
 
--Open recidivism_ml.ipynb in preferred notebook (Jupyter, Colab, Etc.)
+-Open Recidivism_ML.ipynb in preferred notebook (Jupyter, Colab, Etc.)
